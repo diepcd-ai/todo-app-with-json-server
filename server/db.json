@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "a518",
+      "text": "ffff",
+      "completed": false
+    },
+    {
+      "id": "7424",
+      "text": "hhhhh",
+      "completed": false
+    }
+  ],
+  "users": [],
+  "categories":[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "icon": "mi-pizza"
+    }
+  ],
+  "products":[
+    {
+      "name": "Mỳ Ý",
+      "price": "500.000",
+      "date": "2024"
+    }
+  ]
+}
